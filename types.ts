@@ -1,7 +1,7 @@
 let me:string = 'Sahed';
 me = 'rana';
 let price:number = 4999;
-let haveGF = false;
+let haveGF:boolean = false;
 
 console.log(me);
 console.log(price);
